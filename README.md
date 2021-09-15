@@ -1,4 +1,4 @@
-# VueJS
+# VueJS SPA
 
 ## Project setup
 ```
